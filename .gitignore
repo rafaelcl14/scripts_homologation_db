@@ -1,4 +1,4 @@
 
 db/
 .venv/
-_pycahce_/
+__pycache__/
